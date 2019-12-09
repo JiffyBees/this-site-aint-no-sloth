@@ -1,0 +1,13 @@
+html {
+font-family: Georgia, sans-serif;
+}
+
+.drop-shadow {
+  color: white;
+  filter: drop-shadow(2px 2px 10px rgb(28, 14, 0));
+  position: absolute;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+}
